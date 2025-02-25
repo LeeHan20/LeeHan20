@@ -1,13 +1,13 @@
 ## BOJ
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790)
 
-## 학력
-한양대학교 erica 컴퓨터학부 재학
+## Education
+Hanyany University erica, division of computer science
 
-남성고등학교 74기 졸업
+Namsung High Shool 
 
-## 교내 활동
-2025 한양대학교 erica 코딩 중앙동아리 HY-CoRA 회장
+## On-campus Activities
+2025 Chairman of Hanyang University erica coding central club HY-CoRA
 
-## 대외 활동
-LG SDC 서포터즈 1기 수료
+## Off-campus Activities
+LG SDC Supporters 1st cohort
