@@ -7,7 +7,7 @@ Hanyany University erica, division of computer science
 Namsung High Shool 
 
 ## On-campus Activities
-2025 Chairman of Hanyang University erica coding central club HY-CoRA
+2025 Leader of Hanyang University erica coding central club HY-CoRA
 
 ## Off-campus Activities
 LG SDC Supporters 1st cohort
