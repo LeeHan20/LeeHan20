@@ -2,9 +2,23 @@
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790)
 
 ## Education
-Hanyany University erica, division of computer science
+Hanyang University ERICA
+Division of Computer Science
+(Expected Graduation: February, 2028)
 
-Namsung High Shool 
+Namsung High School
+Graduated: February, 2024
 
-## Off-campus Activities
-LG SDC Supporters 1st cohort
+## On-Campus Activities
+Representative, HY-CoRA (Hanyang University Central Coding Club)
+
+- Lead and organize academic coding study groups and club-wide events
+
+- Oversee academic-based learning and inter-student mentoring programs
+
+## Off-Campus Activities
+LG SDC Supporters – 1st Cohort
+
+- Participated as an official supporter for LG Software Developer Conference
+
+- Engaged in tech-related content creation and event promotion
