@@ -23,6 +23,10 @@ Graduated: February, 2024
 ## On-Campus Activities
 2025 Representative, HY-CoRA (Hanyang University Central Coding Club)
 
+2025 Mentor of c++ study in HY-CoRA 
+
+2025 Mentor of data structure in HY-CoRA 
+
 ## Off-Campus Activities
 2024 LG SDC Supporters – 1st Cohort
 
