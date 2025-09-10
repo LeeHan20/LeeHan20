@@ -23,7 +23,7 @@ Graduated: February, 2024
 ## On-Campus Activities
 2025 Representative, HY-CoRA (Hanyang University Central Coding Club)
 
-2025 tutor of c++ study in center of ic-pbl teaching and learning
+2025 tutor of c++ study in hanyang university center of ic-pbl teaching and learning
 
 2025 Mentor of c study in hanyang university academic club zeroone
 
