@@ -23,7 +23,7 @@ Graduated: February, 2024
 ## On-Campus Activities
 2025 Representative, HY-CoRA (Hanyang University Central Coding Club)
 
-2025 tutor of c++ study in hanyang university center of ic-pbl teaching and learning
+2025 Tutor of c++ study in hanyang university center of ic-pbl teaching and learning
 
 2025 Mentor of c study in hanyang university academic club zeroone
 
@@ -35,4 +35,8 @@ Graduated: February, 2024
 2024 LG SDC Supporters – 1st Cohort
 
 2025 Short Term Volunteering in Kenya
+
+## Award
+
+2025 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
 
