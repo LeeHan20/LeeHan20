@@ -38,5 +38,5 @@ Graduated: February, 2024
 
 ## Award
 
-2025 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
+2025 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 
 
