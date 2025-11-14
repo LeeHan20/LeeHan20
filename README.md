@@ -12,31 +12,27 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Education
-Hanyang University ERICA
-Division of Computer Science
-(Expected Graduation: February, 2028)
+- Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2028)
 
-Namsung High School
-Graduated: February, 2024
-
+- Namsung High School - Graduated: Feb, 2024
 
 ## On-Campus Activities
-2025 Representative, HY-CoRA (Hanyang University Central Coding Club)
+- Representative, HY-CoRA (Hanyang University Central Coding Club) 2025 
 
-2025 Tutor of c++ study in hanyang university center of ic-pbl teaching and learning
+- Tutor of c++ in Hanyang University IC-PBL Teaching & Learning Center 2025 
 
-2025 Mentor of c study in hanyang university academic club zeroone
+- C Language Mentor, in Hanyang University ZeroOne Academic Club 2025 
 
-2025 Mentor of c++ study in HY-CoRA 
+- C++ Mentor in HY-CoRA 2025
 
-2025 Mentor of data structure in HY-CoRA 
+- Data Structure Mentor in HY-CoRA 2025 
 
 ## Off-Campus Activities
-2024 LG SDC Supporters – 1st Cohort
+- LG SDC Supporters – 1st Cohort 2024 
 
-2025 Short Term Volunteering in Kenya
+- Short-term Volunteer, Kenya Education Volunteer Program 2025 
 
 ## Award
 
-2025 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 
+- Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025 
 
