@@ -2,6 +2,9 @@
 
 <div align=center>
 
+<h3>Hello! this is Han Lee <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
+
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790) 
 
@@ -33,7 +36,7 @@ Short-term Volunteer, Kenya Education Volunteer Program 2025
 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
 
 ## Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanLee20&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHan20&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
