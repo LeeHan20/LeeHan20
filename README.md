@@ -1,3 +1,8 @@
+## Status
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHan20)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Education
 - Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2028)
 
@@ -22,11 +27,6 @@
 ## Award
 
 - Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
-
-## Status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHan20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanLee20&layout=compact&theme=tokyonight)
