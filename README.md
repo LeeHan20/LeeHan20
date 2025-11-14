@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Han's%20GitHub&fontSize=42" />
+
+<div align=center>
+
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790) 
 
@@ -30,4 +34,6 @@
 
 ## Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanLee20&layout=compact&theme=tokyonight)
+
+</div>
 
