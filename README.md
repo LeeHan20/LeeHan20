@@ -36,7 +36,7 @@ Short-term Volunteer, Kenya Education Volunteer Program 2025
 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
 
 ## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHan20&langs_count=20&layout=compact&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHan20&langs_count=20&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
