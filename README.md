@@ -8,8 +8,6 @@
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHan20)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Education
 Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2028)
 
