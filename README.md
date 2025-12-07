@@ -33,8 +33,5 @@ Short-term Volunteer, Kenya Education Volunteer Program 2025
 
 Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
 
-## Others
-
-[![box](https://markdown-box-generator.vercel.app/api/box?title=Blog&author=프론트&style=BRUNCH)](https://github.com/jongeuni/markdown-box-generator)
 </div>
 
