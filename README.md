@@ -16,7 +16,7 @@ Namsung High School - Graduated: Feb, 2024
 ## On-Campus Activities
 Representative, HY-CoRA (Hanyang University Central Coding Club) 2025 
 
-Tutor of c++ in Hanyang University IC-PBL Teaching & Learning Center 2025 
+Tutor of C++ in Hanyang University IC-PBL Teaching & Learning Center 2025 
 
 C Language Mentor, in Hanyang University ZeroOne Academic Club 2025 
 
