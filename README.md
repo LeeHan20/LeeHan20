@@ -27,11 +27,11 @@ Data Structure Mentor in HY-CoRA 2025
 ## Off-Campus Activities
 LG SDC Supporters – 1st Cohort 2024 
 
-Short-term Volunteer, Kenya Education Volunteer Program 2025 
+Short-term Volunteer, Kenya Volunteer Program 2025 
 
 ## Award
 
-Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackaton 2025
+Excellence Award – President’s Award from Digital Contents Society at SUMTECH hackathon 2025
 
 </div>
 
