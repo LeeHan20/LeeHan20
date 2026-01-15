@@ -25,7 +25,7 @@ C++ Mentor in HY-CoRA 2025
 Data Structure Mentor in HY-CoRA 2025 
 
 ## Off-Campus Activities
-LG SDC Supporters – 1st Cohort 2024 
+LG electronics SDC Supporters – 1st Cohort 2024 
 
 Short-term Volunteer, Kenya Volunteer Program 2025 
 
