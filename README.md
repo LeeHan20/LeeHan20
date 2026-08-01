@@ -9,9 +9,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi385790)](https://solved.ac/hi385790) 
 
 ## Education
-Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2028)
+Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2030)
 
 Namsung High School - Graduated: Feb, 2024
+
+## Work experience
+Republic of Korea Navy
+
+Cybersecurity Emergency Response Team (CERT)
+Aug. 2026 – Feb. 2028 (Expected)
 
 ## On-Campus Activities
 Representative, HY-CoRA (Hanyang University Central Coding Club) 2025 
