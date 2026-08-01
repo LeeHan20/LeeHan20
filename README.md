@@ -13,7 +13,7 @@ Hanyang University ERICA - B.S. Computer Science (Expected Graduation: Feb 2030)
 
 Namsung High School - Graduated: Feb, 2024
 
-## Work experience
+## Work Experience
 Republic of Korea Navy
 
 Cybersecurity Emergency Response Team (CERT)
